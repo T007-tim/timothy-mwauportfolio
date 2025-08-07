@@ -36,7 +36,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **timmulwa123@gmail.com**  
+- 📧 Email: **timmulwa123@gmail.com**
+- Portfolio:[https://timothymulwamwau.my.canva.site/portfolio] 
 - 🔗 GitHub: [github.com/T007-tim](https://github.com/T007-tim)  
 - 💼 LinkedIn: [linkedin.com/in/timothymwau](https://linkedin.com/in/timothymwau)
 - 🌍 Location: Nairobi, Kenya
