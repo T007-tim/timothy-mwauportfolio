@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothy Mwau
 
-🎓 **Computer Science & RecordsIT Student** (2025–2028)  
+🎓 **Computer Science & RecordsIT Student** (2025–2029)  
 💻 **Junior Software Developer** | Passionate about Web Development & Tech Solutions  
 📚 Computer science|university of the people
 
