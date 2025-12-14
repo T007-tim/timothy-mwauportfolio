@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Timothy Mwau
 
-🎓 **Computer Science & RecordsIT Student** (2025–2029)  
+🎓 **Computer Science & RecordsIT Student** (2025–2028)  
 💻 **Junior Software Developer** | Passionate about Web Development & Tech Solutions  
 📚 Computer science|university of the people
 
 ---
 
-## 🛠️ Skills
+##$ 🛠️ Skills
+-
 
 ### 💻 Programming Languages
 - Python  
@@ -14,13 +15,13 @@
 - HTML / CSS  
 - SQL
 
-### 🧰 Tools
+### 🧰 Tools and Technology
 - Git & GitHub  
 - Visual Studio Code (VS Code)  
 - Node.js  
 - Command Line (CLI)
 
-### 🐞 Debugging
+### 🐞 Debugging expertise
 - Tracing runtime errors  
 - Console logging (Python, JS)  
 - Git version tracking  
@@ -36,12 +37,12 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **timmulwa123@gmail.com**
+- 📧 Email: (timmulwa123@gmail.com)
 - Portfolio:[https://timothymulwamwau.my.canva.site/portfolio] 
 - 🔗 GitHub: [github.com/T007-tim](https://github.com/T007-tim)  
-- 💼 LinkedIn: [linkedin.com/in/timothymwau](https://linkedin.com/in/timothymwau)
+- 💼 LinkedIn: [linkedin.com/in/timothymwau](https://www.linkedin.com/in/timothy-mwau-07a627352?)
+- Linkree:(https://linktr.ee/timmulwa)
 - 🌍 Location: Nairobi, Kenya
-
 ---
 
 > "Code with purpose. Learn with passion. Build for impact."
